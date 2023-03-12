@@ -1,0 +1,961 @@
+[
+	{
+		"Sku": "ZA",
+		"Description": "DELIVERY ZONE ATHERTON",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZBEL",
+		"Description": "DELIVERY ZONE BELMONT-129",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZBR",
+		"Description": "DELIVERY ZONE BRISBANE",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "190"
+	},
+	{
+		"Sku": "ZBU",
+		"Description": "DELIVERY ZONE BURLINGAME-5",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZC",
+		"Description": "DELIVERY ZONE COLMA",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "230"
+	},
+	{
+		"Sku": "ZDC",
+		"Description": "DELIVERY ZONE DALY CITY - 90",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "230"
+	},
+	{
+		"Sku": "ZEG",
+		"Description": "DELIVERY EL GRANADA",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "260"
+	},
+	{
+		"Sku": "ZEH",
+		"Description": "DELIVERY ZONE EMERALD HILLS - 48",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZEPA",
+		"Description": "DELIVERY ZONE EAST PALO ALTO-130",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZEV",
+		"Description": "DELIVERY EMERYVILLE SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0"
+	},
+	{
+		"Sku": "ZFC",
+		"Description": "DELIVERY ZONE FOSTER CITY",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZH",
+		"Description": "DELIVERY ZONE HILLSBOROUGH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "130"
+	},
+	{
+		"Sku": "ZHMB",
+		"Description": "DELIVERY ZONE HALF MOON BAY",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "230"
+	},
+	{
+		"Sku": "ZLH",
+		"Description": "DELIVERY LA HONDA SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZLIM",
+		"Description": "DELIVERY LINDA MAR SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "260"
+	},
+	{
+		"Sku": "ZLOM",
+		"Description": "DELIVERY LOMA MAR SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZLTW",
+		"Description": "DELIVERY ZONE LOS TRANCOS WOODS",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "190"
+	},
+	{
+		"Sku": "ZM",
+		"Description": "DELIVERY ZONE MILLBRAE",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "130"
+	},
+	{
+		"Sku": "ZMIR",
+		"Description": "DELIVERY MIRAMAR SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZMISC",
+		"Description": "GENERAL USE DEL ASK DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0"
+	},
+	{
+		"Sku": "ZMOS",
+		"Description": "DELIVERY ZONE MOSS BEACH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "260"
+	},
+	{
+		"Sku": "ZMP",
+		"Description": "DELIVERY ZONE MENLO PARK",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZMTRA",
+		"Description": "DELIVERY MONTARA",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "300"
+	},
+	{
+		"Sku": "ZP",
+		"Description": "DELIVERY PACIFICA",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "260"
+	},
+	{
+		"Sku": "ZPES",
+		"Description": "DELIVERY PESCADERO SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZPRI",
+		"Description": "DELIVERY PRINCETON SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZPV",
+		"Description": "DELIVERY ZONE PORTOLA VALLEY",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "130"
+	},
+	{
+		"Sku": "ZPVO",
+		"Description": "DEL PORTOLA VALLEY OUTER DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "218"
+	},
+	{
+		"Sku": "ZRB",
+		"Description": "ROCKAWAY BEACH SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZRC",
+		"Description": "DELIVERY ZONE REDWOOD CITY - 48",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZRS",
+		"Description": "DELIVERY ZONE REDWOOD SHORES -48",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZSB",
+		"Description": "DELIVERY ZONE SAN BRUNO #46",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "190"
+	},
+	{
+		"Sku": "ZSC",
+		"Description": "DELIVERY ZONE SAN CARLOS",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZSCRUZ",
+		"Description": "SANTA CRUZ FELTON SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSG",
+		"Description": "SAN GREGORIO SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSKY",
+		"Description": "DELIVERY SKYLONDA SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSM",
+		"Description": "DELIVERY ZONE SAN MATEO-16",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZSO",
+		"Description": "DELIVERY SONOMA SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSSF",
+		"Description": "DELIVERY ZONE SOUTH S. F.-33",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "190"
+	},
+	{
+		"Sku": "ZWL",
+		"Description": "DELIVERY ZONE WOODSIDE LOWER",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "115"
+	},
+	{
+		"Sku": "ZWU",
+		"Description": "WOODSIDE UPPER - SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSMT",
+		"Description": "DELIVERY SAN MARTIN SEE DISPATCH",
+		"Dept": "85",
+		"Class": "850",
+		"Retail": "400"
+	},
+	{
+		"Sku": "ZCUP",
+		"Description": "DELIVERY ZONE CUPERTINO -03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "260"
+	},
+	{
+		"Sku": "ZLA",
+		"Description": "DELIVERY ZONE LOS ALTOS - 03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "190"
+	},
+	{
+		"Sku": "ZLAH",
+		"Description": "DELIVERY ZONE LOS ALTOS HILLS-03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "190"
+	},
+	{
+		"Sku": "ZMS",
+		"Description": "DELIVERY MONTE SERENO -03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "300"
+	},
+	{
+		"Sku": "ZMV",
+		"Description": "DELIVERY ZONE MOUNTAIN VIEW -03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "190"
+	},
+	{
+		"Sku": "ZPA",
+		"Description": "DELIVERY ZONE PALO ALTO #3",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "130"
+	},
+	{
+		"Sku": "ZSA",
+		"Description": "DELIVERY ZONE SARATOGA -03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "260"
+	},
+	{
+		"Sku": "ZSAU",
+		"Description": "SARATOGA UPPER SEE DISPATCH -03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSCL",
+		"Description": "DELIVERY ZONE SANTA CLARA -03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "270"
+	},
+	{
+		"Sku": "ZSJN",
+		"Description": "DELIVERY SAN JOSE NORTH/WEST-43",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "300"
+	},
+	{
+		"Sku": "ZSJS",
+		"Description": "DELIVERY SAN JOSE SOUTH/EAST-43",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "360"
+	},
+	{
+		"Sku": "ZST",
+		"Description": "DELIVERY ZONE STANFORD - 3",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "130"
+	},
+	{
+		"Sku": "ZSU",
+		"Description": "DELIVERY ZONE SUNNYVALE -03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "190"
+	},
+	{
+		"Sku": "ZPAU",
+		"Description": "PALO ALTO UPPER SEE DISPATCH",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZLAHU",
+		"Description": "LOS ALTOS HILLS UPPER SEE DISPATCH",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZCAM",
+		"Description": "DELIVERY ZONE CAMPBELL - 23",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "300"
+	},
+	{
+		"Sku": "ZGI",
+		"Description": "DELIVERY GILROY SEE DISPATCH",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZLG",
+		"Description": "DELIVERY ZONE LOS GATOS #49",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "300"
+	},
+	{
+		"Sku": "ZLGU",
+		"Description": "LOS GATOS UPPER SEE DISPATCH -49",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZMH",
+		"Description": "DELIVERY MORGAN HILL SEE DISPATCH",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZMI",
+		"Description": "DELIVERY ZONE MILPITAS - 03",
+		"Dept": "85",
+		"Class": "851",
+		"Retail": "300"
+	},
+	{
+		"Sku": "ZSF",
+		"Description": "DELIVERY ZONE SAN FRANCISCO -04",
+		"Dept": "85",
+		"Class": "852",
+		"Retail": "230"
+	},
+	{
+		"Sku": "ZSFTI",
+		"Description": "DELIVERY ZONE SF TREASURE ISLAND",
+		"Dept": "85",
+		"Class": "852",
+		"Retail": "330"
+	},
+	{
+		"Sku": "Z3RB",
+		"Description": "DELIVERY CHARGE  Z3",
+		"Dept": "85",
+		"Class": "852",
+		"Retail": "40"
+	},
+	{
+		"Sku": "ZSFU",
+		"Description": "DELIVERY SAN FRANCISCO UPPER -04",
+		"Dept": "85",
+		"Class": "852",
+		"Retail": "300"
+	},
+	{
+		"Sku": "ZSFL",
+		"Description": "DELIVERY SAN FRANCISCO",
+		"Dept": "85",
+		"Class": "852",
+		"Retail": "230"
+	},
+	{
+		"Sku": "ZALA",
+		"Description": "DELIVERY ALAMEDA SEE DISPATCH 14",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZALT",
+		"Description": "DEL ALTAMONT-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": ""
+	},
+	{
+		"Sku": "ZBE",
+		"Description": "DELIVERY BERKELEY SEE DISPATCH 8",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZCV",
+		"Description": "DELIVERY CASTRO VALLEY SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZFE",
+		"Description": "DELIVERY ZONE FREMONT EST/STH -8",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "280"
+	},
+	{
+		"Sku": "ZFW",
+		"Description": "DELIVERY ZONE FREMONT WST/NRTH-8",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "260"
+	},
+	{
+		"Sku": "ZHA",
+		"Description": "DELIVERY HAYWARD - 26",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "280"
+	},
+	{
+		"Sku": "ZNE",
+		"Description": "DELIVERY ZONE NEWARK -135",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "240"
+	},
+	{
+		"Sku": "ZOD",
+		"Description": "DELIVERY OAKLAND SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSLE",
+		"Description": "DEL SAN LEANDRO -27 SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "280"
+	},
+	{
+		"Sku": "ZUC",
+		"Description": "DELIVERY UNION CITY -28",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "240"
+	},
+	{
+		"Sku": "ZSL",
+		"Description": "DELIVERY SAN LORENZO SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "280"
+	},
+	{
+		"Sku": "ZSRD",
+		"Description": "DIRECT DEL CHARGE, SANTA ROSA",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZAL",
+		"Description": "DELIVERY ALAMO SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZAV",
+		"Description": "DELIVERY AVON SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZBI",
+		"Description": "DEL BETHEL ISLAND SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZBL",
+		"Description": "DELIVERY BLACKHAWK SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZBRW",
+		"Description": "DEL BRENTWOOD-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZCLA",
+		"Description": "DELIVERY CLAYTON-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZCLY",
+		"Description": "DELIVERY ZONE CLYDE-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZCON",
+		"Description": "DELIVERY CONCORD SEE DISPATCH-45",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZCRO",
+		"Description": "DEL CROCKETT-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZDA",
+		"Description": "DELIVERY DANVILLE SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZDIS",
+		"Description": "DEL DISCOVERY BAY-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZELC",
+		"Description": "DELIVERY EL CERRITO SEE DISP.-31",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZES",
+		"Description": "DEL EL SOBRANTE-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZHE",
+		"Description": "DELIVERY HERCULES SEE DISP. -54",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZKN",
+		"Description": "DEL KNIGHTSEN-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZLAF",
+		"Description": "DELIVERY LAFAYETTE SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZPIN",
+		"Description": "DELIVERY PINOLE SEE DISPATCH -32",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZPIT",
+		"Description": "DEL PITTSBURGH-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZRV",
+		"Description": "DEL RHEEM VALLEY-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSGER",
+		"Description": "DEL SAN GERONIMO-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": ""
+	},
+	{
+		"Sku": "ZSP",
+		"Description": "DELIVERY SAN PABLO-ASK DISP.-42",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSQ",
+		"Description": "DELIVERY SAN QUENTIN SEE DISPATC",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSRAF",
+		"Description": "DELIVERY SAN RAFAEL SEE DISP.-63",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZOR",
+		"Description": "DELIVERY ZONE ORINDA-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0"
+	},
+	{
+		"Sku": "ZDU",
+		"Description": "DELIVERY DUBLIN SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZHC",
+		"Description": "DELIVERY HOLY CITY-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZLI",
+		"Description": "DELIVERY LIVERMORE SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZPI",
+		"Description": "DELIVERY PIEDMONT SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZPL",
+		"Description": "DELIVERY PLEASANTON SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZRE",
+		"Description": "DEL REDWOOD ESTATES-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSRA",
+		"Description": "DELIVERY SAN RAMON SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZTAS",
+		"Description": "DEL TASSAJARA-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZWCR",
+		"Description": "WALNUT CREEK SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZALYA",
+		"Description": "DELIVERY ALBANY - ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZDB",
+		"Description": "DEL DILLON BEACH-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZF",
+		"Description": "DELIVERY FAIRFAX SEE DISPATCH-59",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZIG",
+		"Description": "DELIVERY IGNACIO-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": ""
+	},
+	{
+		"Sku": "ZLAG",
+		"Description": "DEL LAGUNITAS-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": ""
+	},
+	{
+		"Sku": "ZLKS",
+		"Description": "DELIVERY LARKSPUR SEE DISPATCH.-60",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZMCT",
+		"Description": "DELIVERY MARIN CITY SEE DISPATCH.-41",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZMILV",
+		"Description": "DELIVERY MILL VALLEY SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZMRW",
+		"Description": "DELIVERY MARINWOOD-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": ""
+	},
+	{
+		"Sku": "ZMUIR",
+		"Description": "DEL MUIR BEACH-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": ""
+	},
+	{
+		"Sku": "ZNICA",
+		"Description": "DEL NICASIO REDWOODS-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": ""
+	},
+	{
+		"Sku": "ZNOV",
+		"Description": "DELIVERY NOVATO SEE DISPATCH -61",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSAS",
+		"Description": "DEL SAN ANSELMO-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": ""
+	},
+	{
+		"Sku": "ZSV",
+		"Description": "DEL SAN VENITIA-ASK DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": ""
+	},
+	{
+		"Sku": "ZTOM",
+		"Description": "DELIVERY TOMALES SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZTV",
+		"Description": "TAMALPIAS VALLEY SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZWAC",
+		"Description": "DELIVERY WOODACRE SEE DISPATCH",
+		"Dept": "85",
+		"Class": "853",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSTB",
+		"Description": "DEL STINSON BEACH SEE DISPATCH",
+		"Dept": "85",
+		"Class": "856",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSAUS",
+		"Description": "DELIVERY SAUSALITO SEE DISPATCH. -64",
+		"Dept": "85",
+		"Class": "856",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZTIB",
+		"Description": "DELIVERY TIBURON SEE DISPATCH",
+		"Dept": "85",
+		"Class": "856",
+		"Retail": "0.001"
+	},
+	{
+		"Sku": "ZSTH",
+		"Description": "DELIVERY ST HELENA -SEE DISPATCH",
+		"Dept": "85",
+		"Class": "858",
+		"Retail": "0"
+	},
+	{
+		"Sku": "ZFA",
+		"Description": "DELIVERY FAIRFIELD SEE DISPATCH",
+		"Dept": "85",
+		"Class": "859",
+		"Retail": "0"
+	},
+	{
+		"Sku": "ZWV",
+		"Description": "DELIVERY ZONE WATSONVILLE",
+		"Dept": "85",
+		"Class": "860",
+		"Retail": "741"
+	}
+]

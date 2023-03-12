@@ -1,0 +1,1107 @@
+[
+	{
+		"ALAMEDA": {
+			"Sku": "ZALA",
+			"price": "0.001",
+			"description": "DELIVERY ALAMEDA SEE DISPATCH 14",
+			"zipCodes": []
+		}
+	},
+	{
+		"ALAMO": {
+			"Sku": "ZAL",
+			"price": "0.001",
+			"description": "DELIVERY ALAMO SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"ALBANY": {
+			"Sku": "ZALYA",
+			"price": "0.001",
+			"description": "DELIVERY ALBANY - ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"ALTAMONT": {
+			"Sku": "ZALT",
+			"price": "",
+			"description": "DEL ALTAMONT-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"ATHERTON": {
+			"Sku": "ZA",
+			"price": "115",
+			"description": "DELIVERY ZONE ATHERTON",
+			"zipCodes": []
+		}
+	},
+	{
+		"AVON": {
+			"Sku": "ZAV",
+			"price": "0.001",
+			"description": "DELIVERY AVON SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"BELMONT": {
+			"Sku": "ZBEL",
+			"price": "115",
+			"description": "DELIVERY ZONE BELMONT-129",
+			"zipCodes": []
+		}
+	},
+	{
+		"BERKELEY": {
+			"Sku": "ZBE",
+			"price": "0.001",
+			"description": "DELIVERY BERKELEY SEE DISPATCH 8",
+			"zipCodes": []
+		}
+	},
+	{
+		"BETHEL ISLAND": {
+			"Sku": "ZBI",
+			"price": "0.001",
+			"description": "DEL BETHEL ISLAND SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"BLACKHAWK": {
+			"Sku": "ZBL",
+			"price": "0.001",
+			"description": "DELIVERY BLACKHAWK SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"BRENTWOOD": {
+			"Sku": "ZBRW",
+			"price": "0.001",
+			"description": "DEL BRENTWOOD-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"BRISBANE": {
+			"Sku": "ZBR",
+			"price": "190",
+			"description": "DELIVERY ZONE BRISBANE",
+			"zipCodes": []
+		}
+	},
+	{
+		"BURLINGAME": {
+			"Sku": "ZBU",
+			"price": "115",
+			"description": "DELIVERY ZONE BURLINGAME-5",
+			"zipCodes": []
+		}
+	},
+	{
+		"CAMPBELL": {
+			"Sku": "ZCAM",
+			"price": "300",
+			"description": "DELIVERY ZONE CAMPBELL - 23",
+			"zipCodes": []
+		}
+	},
+	{
+		"CASTRO VALLEY": {
+			"Sku": "ZCV",
+			"price": "0.001",
+			"description": "DELIVERY CASTRO VALLEY SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"CHARGE": {
+			"Sku": "Z3RB",
+			"price": "40",
+			"description": "DELIVERY CHARGE  Z3",
+			"zipCodes": []
+		}
+	},
+	{
+		"CLAYTON": {
+			"Sku": "ZCLA",
+			"price": "0.001",
+			"description": "DELIVERY CLAYTON-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"CLYDE": {
+			"Sku": "ZCLY",
+			"price": "0.001",
+			"description": "DELIVERY ZONE CLYDE-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"COLMA": {
+			"Sku": "ZC",
+			"price": "230",
+			"description": "DELIVERY ZONE COLMA",
+			"zipCodes": []
+		}
+	},
+	{
+		"CONCORD": {
+			"Sku": "ZCON",
+			"price": "0.001",
+			"description": "DELIVERY CONCORD SEE DISPATCH-45",
+			"zipCodes": []
+		}
+	},
+	{
+		"CROCKETT": {
+			"Sku": "ZCRO",
+			"price": "0.001",
+			"description": "DEL CROCKETT-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"CUPERTINO": {
+			"Sku": "ZCUP",
+			"price": "260",
+			"description": "DELIVERY ZONE CUPERTINO -03",
+			"zipCodes": []
+		}
+	},
+	{
+		"DALY CITY": {
+			"Sku": "ZDC",
+			"price": "230",
+			"description": "DELIVERY ZONE DALY CITY - 90",
+			"zipCodes": []
+		}
+	},
+	{
+		"DANVILLE": {
+			"Sku": "ZDA",
+			"price": "0.001",
+			"description": "DELIVERY DANVILLE SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"DILLON BEACH": {
+			"Sku": "ZDB",
+			"price": "0.001",
+			"description": "DEL DILLON BEACH-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"DISCOVERY BAY": {
+			"Sku": "ZDIS",
+			"price": "0.001",
+			"description": "DEL DISCOVERY BAY-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"DUBLIN": {
+			"Sku": "ZDU",
+			"price": "0.001",
+			"description": "DELIVERY DUBLIN SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"EAST PALO ALTO": {
+			"Sku": "ZEPA",
+			"price": "115",
+			"description": "DELIVERY ZONE EAST PALO ALTO-130",
+			"zipCodes": []
+		}
+	},
+	{
+		"EL CERRITO": {
+			"Sku": "ZELC",
+			"price": "0.001",
+			"description": "DELIVERY EL CERRITO SEE DISP.-31",
+			"zipCodes": []
+		}
+	},
+	{
+		"EL GRANADA": {
+			"Sku": "ZEG",
+			"price": "260",
+			"description": "DELIVERY EL GRANADA",
+			"zipCodes": []
+		}
+	},
+	{
+		"EL SOBRANTE": {
+			"Sku": "ZES",
+			"price": "0.001",
+			"description": "DEL EL SOBRANTE-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"EMERALD HILLS": {
+			"Sku": "ZEH",
+			"price": "115",
+			"description": "DELIVERY ZONE EMERALD HILLS - 48",
+			"zipCodes": []
+		}
+	},
+	{
+		"EMERYVILLE": {
+			"Sku": "ZEV",
+			"price": "0",
+			"description": "DELIVERY EMERYVILLE SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"FAIRFAX": {
+			"Sku": "ZF",
+			"price": "0.001",
+			"description": "DELIVERY FAIRFAX SEE DISPATCH-59",
+			"zipCodes": []
+		}
+	},
+	{
+		"FAIRFIELD": {
+			"Sku": "ZFA",
+			"price": "0",
+			"description": "DELIVERY FAIRFIELD SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"FOSTER CITY": {
+			"Sku": "ZFC",
+			"price": "115",
+			"description": "DELIVERY ZONE FOSTER CITY",
+			"zipCodes": []
+		}
+	},
+	{
+		"FREMONT EST/STH": {
+			"Sku": "ZFE",
+			"price": "280",
+			"description": "DELIVERY ZONE FREMONT EST/STH -8",
+			"zipCodes": []
+		}
+	},
+	{
+		"FREMONT WST/NRTH": {
+			"Sku": "ZFW",
+			"price": "260",
+			"description": "DELIVERY ZONE FREMONT WST/NRTH-8",
+			"zipCodes": []
+		}
+	},
+	{
+		"GENERAL USE  ASK ATCH": {
+			"Sku": "ZMISC",
+			"price": "0",
+			"description": "GENERAL USE DEL ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"GILROY": {
+			"Sku": "ZGI",
+			"price": "0.001",
+			"description": "DELIVERY GILROY SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"HALF MOON BAY": {
+			"Sku": "ZHMB",
+			"price": "230",
+			"description": "DELIVERY ZONE HALF MOON BAY",
+			"zipCodes": []
+		}
+	},
+	{
+		"HAYWARD": {
+			"Sku": "ZHA",
+			"price": "280",
+			"description": "DELIVERY HAYWARD - 26",
+			"zipCodes": []
+		}
+	},
+	{
+		"HERCULES": {
+			"Sku": "ZHE",
+			"price": "0.001",
+			"description": "DELIVERY HERCULES SEE DISP. -54",
+			"zipCodes": []
+		}
+	},
+	{
+		"HILLSBOROUGH": {
+			"Sku": "ZH",
+			"price": "130",
+			"description": "DELIVERY ZONE HILLSBOROUGH",
+			"zipCodes": []
+		}
+	},
+	{
+		"HOLY CITY": {
+			"Sku": "ZHC",
+			"price": "0.001",
+			"description": "DELIVERY HOLY CITY-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"IGNACIO": {
+			"Sku": "ZIG",
+			"price": "",
+			"description": "DELIVERY IGNACIO-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"KNIGHTSEN": {
+			"Sku": "ZKN",
+			"price": "0.001",
+			"description": "DEL KNIGHTSEN-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"LA HONDA": {
+			"Sku": "ZLH",
+			"price": "0.001",
+			"description": "DELIVERY LA HONDA SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"LAFAYETTE": {
+			"Sku": "ZLAF",
+			"price": "0.001",
+			"description": "DELIVERY LAFAYETTE SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"LAGUNITAS": {
+			"Sku": "ZLAG",
+			"price": "",
+			"description": "DEL LAGUNITAS-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"LARKSPUR": {
+			"Sku": "ZLKS",
+			"price": "0.001",
+			"description": "DELIVERY LARKSPUR SEE DISPATCH.-60",
+			"zipCodes": []
+		}
+	},
+	{
+		"LINDA MAR": {
+			"Sku": "ZLIM",
+			"price": "260",
+			"description": "DELIVERY LINDA MAR SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"LIVERMORE": {
+			"Sku": "ZLI",
+			"price": "0.001",
+			"description": "DELIVERY LIVERMORE SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"LOMA MAR": {
+			"Sku": "ZLOM",
+			"price": "0.001",
+			"description": "DELIVERY LOMA MAR SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"LOS ALTOS": {
+			"Sku": "ZLA",
+			"price": "190",
+			"description": "DELIVERY ZONE LOS ALTOS - 03",
+			"zipCodes": []
+		}
+	},
+	{
+		"LOS ALTOS HILLS": {
+			"Sku": "ZLAH",
+			"price": "190",
+			"description": "DELIVERY ZONE LOS ALTOS HILLS-03",
+			"zipCodes": []
+		}
+	},
+	{
+		"LOS ALTOS HILLS UPPER": {
+			"Sku": "ZLAHU",
+			"price": "0.001",
+			"description": "LOS ALTOS HILLS UPPER SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"LOS GATOS": {
+			"Sku": "ZLG",
+			"price": "300",
+			"description": "DELIVERY ZONE LOS GATOS #49",
+			"zipCodes": []
+		}
+	},
+	{
+		"LOS GATOS UPPER": {
+			"Sku": "ZLGU",
+			"price": "0.001",
+			"description": "LOS GATOS UPPER SEE DISPATCH -49",
+			"zipCodes": []
+		}
+	},
+	{
+		"LOS TRANCOS WOODS": {
+			"Sku": "ZLTW",
+			"price": "190",
+			"description": "DELIVERY ZONE LOS TRANCOS WOODS",
+			"zipCodes": []
+		}
+	},
+	{
+		"MARIN CITY": {
+			"Sku": "ZMCT",
+			"price": "0.001",
+			"description": "DELIVERY MARIN CITY SEE DISPATCH.-41",
+			"zipCodes": []
+		}
+	},
+	{
+		"MARINWOOD": {
+			"Sku": "ZMRW",
+			"price": "",
+			"description": "DELIVERY MARINWOOD-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"MENLO PARK": {
+			"Sku": "ZMP",
+			"price": "115",
+			"description": "DELIVERY ZONE MENLO PARK",
+			"zipCodes": []
+		}
+	},
+	{
+		"MILL VALLEY": {
+			"Sku": "ZMILV",
+			"price": "0.001",
+			"description": "DELIVERY MILL VALLEY SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"MILLBRAE": {
+			"Sku": "ZM",
+			"price": "130",
+			"description": "DELIVERY ZONE MILLBRAE",
+			"zipCodes": []
+		}
+	},
+	{
+		"MILPITAS": {
+			"Sku": "ZMI",
+			"price": "300",
+			"description": "DELIVERY ZONE MILPITAS - 03",
+			"zipCodes": []
+		}
+	},
+	{
+		"MIRAMAR": {
+			"Sku": "ZMIR",
+			"price": "0.001",
+			"description": "DELIVERY MIRAMAR SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"MONTARA": {
+			"Sku": "ZMTRA",
+			"price": "300",
+			"description": "DELIVERY MONTARA",
+			"zipCodes": []
+		}
+	},
+	{
+		"MONTE SERENO": {
+			"Sku": "ZMS",
+			"price": "300",
+			"description": "DELIVERY MONTE SERENO -03",
+			"zipCodes": []
+		}
+	},
+	{
+		"MORGAN HILL": {
+			"Sku": "ZMH",
+			"price": "0.001",
+			"description": "DELIVERY MORGAN HILL SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"MOSS BEACH": {
+			"Sku": "ZMOS",
+			"price": "260",
+			"description": "DELIVERY ZONE MOSS BEACH",
+			"zipCodes": []
+		}
+	},
+	{
+		"MOUNTAIN VIEW": {
+			"Sku": "ZMV",
+			"price": "190",
+			"description": "DELIVERY ZONE MOUNTAIN VIEW -03",
+			"zipCodes": []
+		}
+	},
+	{
+		"MUIR BEACH": {
+			"Sku": "ZMUIR",
+			"price": "",
+			"description": "DEL MUIR BEACH-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"NEWARK": {
+			"Sku": "ZNE",
+			"price": "240",
+			"description": "DELIVERY ZONE NEWARK -135",
+			"zipCodes": []
+		}
+	},
+	{
+		"NICASIO REDWOODS": {
+			"Sku": "ZNICA",
+			"price": "",
+			"description": "DEL NICASIO REDWOODS-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"NOVATO": {
+			"Sku": "ZNOV",
+			"price": "0.001",
+			"description": "DELIVERY NOVATO SEE DISPATCH -61",
+			"zipCodes": []
+		}
+	},
+	{
+		"OAKLAND": {
+			"Sku": "ZOD",
+			"price": "0.001",
+			"description": "DELIVERY OAKLAND SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"ORINDA": {
+			"Sku": "ZOR",
+			"price": "0",
+			"description": "DELIVERY ZONE ORINDA-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"PACIFICA": {
+			"Sku": "ZP",
+			"price": "260",
+			"description": "DELIVERY PACIFICA",
+			"zipCodes": []
+		}
+	},
+	{
+		"PALO ALTO": {
+			"Sku": "ZPA",
+			"price": "130",
+			"description": "DELIVERY ZONE PALO ALTO #3",
+			"zipCodes": []
+		}
+	},
+	{
+		"PALO ALTO UPPER": {
+			"Sku": "ZPAU",
+			"price": "0.001",
+			"description": "PALO ALTO UPPER SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"PESCADERO": {
+			"Sku": "ZPES",
+			"price": "0.001",
+			"description": "DELIVERY PESCADERO SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"PIEDMONT": {
+			"Sku": "ZPI",
+			"price": "0.001",
+			"description": "DELIVERY PIEDMONT SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"PINOLE": {
+			"Sku": "ZPIN",
+			"price": "0.001",
+			"description": "DELIVERY PINOLE SEE DISPATCH -32",
+			"zipCodes": []
+		}
+	},
+	{
+		"PITTSBURGH": {
+			"Sku": "ZPIT",
+			"price": "0.001",
+			"description": "DEL PITTSBURGH-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"PLEASANTON": {
+			"Sku": "ZPL",
+			"price": "0.001",
+			"description": "DELIVERY PLEASANTON SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"PORTOLA VALLEY": {
+			"Sku": "ZPV",
+			"price": "130",
+			"description": "DELIVERY ZONE PORTOLA VALLEY",
+			"zipCodes": []
+		}
+	},
+	{
+		"PORTOLA VALLEY OUTER ATCH": {
+			"Sku": "ZPVO",
+			"price": "218",
+			"description": "DEL PORTOLA VALLEY OUTER DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"PRINCETON": {
+			"Sku": "ZPRI",
+			"price": "0.001",
+			"description": "DELIVERY PRINCETON SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"REDWOOD CITY": {
+			"Sku": "ZRC",
+			"price": "115",
+			"description": "DELIVERY ZONE REDWOOD CITY - 48",
+			"zipCodes": []
+		}
+	},
+	{
+		"REDWOOD ESTATES": {
+			"Sku": "ZRE",
+			"price": "0.001",
+			"description": "DEL REDWOOD ESTATES-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"REDWOOD SHORES": {
+			"Sku": "ZRS",
+			"price": "115",
+			"description": "DELIVERY ZONE REDWOOD SHORES -48",
+			"zipCodes": []
+		}
+	},
+	{
+		"RHEEM VALLEY": {
+			"Sku": "ZRV",
+			"price": "0.001",
+			"description": "DEL RHEEM VALLEY-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"ROCKAWAY BEACH": {
+			"Sku": "ZRB",
+			"price": "0.001",
+			"description": "ROCKAWAY BEACH SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN ANSELMO": {
+			"Sku": "ZSAS",
+			"price": "",
+			"description": "DEL SAN ANSELMO-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN BRUNO": {
+			"Sku": "ZSB",
+			"price": "190",
+			"description": "DELIVERY ZONE SAN BRUNO #46",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN CARLOS": {
+			"Sku": "ZSC",
+			"price": "115",
+			"description": "DELIVERY ZONE SAN CARLOS",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN FRANCISCO": {
+			"Sku": "ZSF",
+			"price": "230",
+			"description": "DELIVERY ZONE SAN FRANCISCO -04",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN FRANCISCO": {
+			"Sku": "ZSFL",
+			"price": "230",
+			"description": "DELIVERY SAN FRANCISCO",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN FRANCISCO UPPER": {
+			"Sku": "ZSFU",
+			"price": "300",
+			"description": "DELIVERY SAN FRANCISCO UPPER -04",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN GERONIMO": {
+			"Sku": "ZSGER",
+			"price": "",
+			"description": "DEL SAN GERONIMO-ASK DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN GREGORIO": {
+			"Sku": "ZSG",
+			"price": "0.001",
+			"description": "SAN GREGORIO SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN JOSE NORTH/WEST": {
+			"Sku": "ZSJN",
+			"price": "300",
+			"description": "DELIVERY SAN JOSE NORTH/WEST-43",
+			"zipCodes": [
+				95123, 95122, 95125, 95124, 95129, 95121, 95127, 95120, 95126,
+				95128, 95130, 95131, 95133, 95134, 95119
+			]
+		}
+	},
+	{
+		"SAN JOSE SOUTH/EAST": {
+			"Sku": "ZSJS",
+			"price": "360",
+			"description": "DELIVERY SAN JOSE SOUTH/EAST-43",
+			"zipCodes": [
+				95120, 95139, 95138, 95135, 95103, 95106, 95109, 95115, 95150
+			]
+		}
+	},
+	{
+		"SAN LEANDRO": {
+			"Sku": "ZSLE",
+			"price": "280",
+			"description": "DEL SAN LEANDRO -27 SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN LORENZO": {
+			"Sku": "ZSL",
+			"price": "280",
+			"description": "DELIVERY SAN LORENZO SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN MARTIN": {
+			"Sku": "ZSMT",
+			"price": "400",
+			"description": "DELIVERY SAN MARTIN SEE DISPATCH",
+			"zipCodes": []
+		}
+	},
+	{
+		"SAN MATEO": {
+			"Sku": "ZSM",
+			"price": "115",
+			"description": "DELIVERY ZONE SAN MATEO-16",
+			"zipCodes": [94403, 94401, 94402, 94404, 94497]
+		}
+	},
+	{
+		"SAN PABLO": {
+			"Sku": "ZSP",
+			"price": "0.001",
+			"description": "DELIVERY SAN PABLO-ASK DISP.-42",
+			"zipCodes": [94806]
+		}
+	},
+	{
+		"SAN QUENTIN": {
+			"Sku": "ZSQ",
+			"price": "0.001",
+			"description": "DELIVERY SAN QUENTIN SEE DISPATC",
+			"zipCodes": [94964, 94974]
+		}
+	},
+	{
+		"SAN RAFAEL": {
+			"Sku": "ZSRAF",
+			"price": "0.001",
+			"description": "DELIVERY SAN RAFAEL SEE DISP.-63",
+			"zipCodes": [94901, 94903, 94912, 94913, 94915, 94964]
+		}
+	},
+	{
+		"SAN RAMON": {
+			"Sku": "ZSRA",
+			"price": "0.001",
+			"description": "DELIVERY SAN RAMON SEE DISPATCH",
+			"zipCodes": [94582, 94583]
+		}
+	},
+	{
+		"SAN VENITIA": {
+			"Sku": "ZSV",
+			"price": "",
+			"description": "DEL SAN VENITIA-ASK DISPATCH",
+			"zipCodes": [94903]
+		}
+	},
+	{
+		"SANTA CLARA": {
+			"Sku": "ZSCL",
+			"price": "270",
+			"description": "DELIVERY ZONE SANTA CLARA -03",
+			"zipCodes": [95051, 95050, 95054, 95053, 95052, 95055, 95056]
+		}
+	},
+	{
+		"SANTA CRUZ FELTON": {
+			"Sku": "ZSCRUZ",
+			"price": "0.001",
+			"description": "SANTA CRUZ FELTON SEE DISPATCH",
+			"zipCodes": [95060, 95062, 95064, 95065, 95061, 95063]
+		}
+	},
+	{
+		"SANTA ROSA": {
+			"Sku": "ZSRD",
+			"price": "0.001",
+			"description": "DIRECT DEL CHARGE, SANTA ROSA",
+			"zipCodes": [
+				95403, 95401, 95404, 95409, 95407, 95405, 95472, 95402, 95406
+			]
+		}
+	},
+	{
+		"SARATOGA": {
+			"Sku": "ZSA",
+			"price": "260",
+			"description": "DELIVERY ZONE SARATOGA -03",
+			"zipCodes": [95070]
+		}
+	},
+	{
+		"SARATOGA UPPER": {
+			"Sku": "ZSAU",
+			"price": "0.001",
+			"description": "SARATOGA UPPER SEE DISPATCH -03",
+			"zipCodes": [95071]
+		}
+	},
+	{
+		"SAUSALITO": {
+			"Sku": "ZSAUS",
+			"price": "0.001",
+			"description": "DELIVERY SAUSALITO SEE DISPATCH. -64",
+			"zipCodes": [94965, 94966]
+		}
+	},
+	{
+		"SF TREASURE ISLAND": {
+			"Sku": "ZSFTI",
+			"price": "330",
+			"description": "DELIVERY ZONE SF TREASURE ISLAND",
+			"zipCodes": [94130]
+		}
+	},
+	{
+		"SKYLONDA": {
+			"Sku": "ZSKY",
+			"price": "0.001",
+			"description": "DELIVERY SKYLONDA SEE DISPATCH",
+			"zipCodes": [94062]
+		}
+	},
+	{
+		"SONOMA": {
+			"Sku": "ZSO",
+			"price": "0.001",
+			"description": "DELIVERY SONOMA SEE DISPATCH",
+			"zipCodes": [95476]
+		}
+	},
+	{
+		"SOUTH San Francisco": {
+			"Sku": "ZSSF",
+			"price": "190",
+			"description": "DELIVERY ZONE SOUTH S. F.-33",
+			"zipCodes": [94080, 94083]
+		}
+	},
+	{
+		"ST HELENA": {
+			"Sku": "ZSTH",
+			"price": "0",
+			"description": "DELIVERY ST HELENA -SEE DISPATCH",
+			"zipCodes": [94574]
+		}
+	},
+	{
+		"STANFORD": {
+			"Sku": "ZST",
+			"price": "130",
+			"description": "DELIVERY ZONE STANFORD - 3",
+			"zipCodes": [94305, 94304]
+		}
+	},
+	{
+		"STINSON BEACH": {
+			"Sku": "ZSTB",
+			"price": "0.001",
+			"description": "DEL STINSON BEACH SEE DISPATCH",
+			"zipCodes": [94970, 94924]
+		}
+	},
+	{
+		"SUNNYVALE": {
+			"Sku": "ZSU",
+			"price": "190",
+			"description": "DELIVERY ZONE SUNNYVALE -03",
+			"zipCodes": [94087, 94086, 94085, 94089, 94088]
+		}
+	},
+	{
+		"TAMALPIAS VALLEY": {
+			"Sku": "ZTV",
+			"price": "0.001",
+			"description": "TAMALPIAS VALLEY SEE DISPATCH",
+			"zipCodes": [94904, 94964, 94939, 949425, 94941, 94920, 94965]
+		}
+	},
+	{
+		"TASSAJARA": {
+			"Sku": "ZTAS",
+			"price": "0.001",
+			"description": "DEL TASSAJARA-ASK DISPATCH",
+			"zipCodes": [94506, 94588]
+		}
+	},
+	{
+		"TIBURON": {
+			"Sku": "ZTIB",
+			"price": "0.001",
+			"description": "DELIVERY TIBURON SEE DISPATCH",
+			"zipCodes": [94920]
+		}
+	},
+	{
+		"TOMALES": {
+			"Sku": "ZTOM",
+			"price": "0.001",
+			"description": "DELIVERY TOMALES SEE DISPATCH",
+			"zipCodes": [94971]
+		}
+	},
+	{
+		"UNION CITY": {
+			"Sku": "ZUC",
+			"price": "240",
+			"description": "DELIVERY UNION CITY -28",
+			"zipCodes": [94544, 94587, 94536]
+		}
+	},
+	{
+		"WALNUT CREEK": {
+			"Sku": "ZWCR",
+			"price": "0.001",
+			"description": "WALNUT CREEK SEE DISPATCH",
+			"zipCodes": [
+				94597, 94598, 94549, 94595, 94596, 94556, 94575, 94507, 94528
+			]
+		}
+	},
+	{
+		"WATSONVILLE": {
+			"Sku": "ZWV",
+			"price": "741",
+			"description": "DELIVERY ZONE WATSONVILLE",
+			"zipCodes": [95019, 95076]
+		}
+	},
+	{
+		"WOODACRES": {
+			"Sku": "ZWAC",
+			"price": "0.001",
+			"description": "DELIVERY WOODACRE SEE DISPATCH",
+			"zipCodes": [94523, 94597]
+		}
+	},
+	{
+		"WOODSIDE LOWER": {
+			"Sku": "ZWL",
+			"price": "115",
+			"description": "DELIVERY ZONE WOODSIDE LOWER",
+			"zipCodes": [94062, 94027]
+		}
+	},
+	{
+		"WOODSIDE UPPER": {
+			"Sku": "ZWU",
+			"price": "0.001",
+			"description": "WOODSIDE UPPER - SEE DISPATCH",
+			"zipCodes": [94061]
+		}
+	}
+]
