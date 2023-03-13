@@ -86,8 +86,12 @@ export const search = async (req, res, next) => {
     let priceViewProductArray = [];
 
     try {
+        // first search for products by product title and description
         const result = await db.getData(focusedQuery, [search, search, sortOrder]);
+        // then search for products by price title and price description
         const query2 = focusedQuery.replace(prodFocus, priceFocus).replace(prodFocus, priceFocus);
+        // now merge the results, note: this is not a perfect solution, but it works for now.  
+        // Duplicate results will be removed from the results by the merge.
         const result2 = await db.getData(query2, [search, search, sortOrder]);
 
         productArray = buildSearchResults(result);
