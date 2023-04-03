@@ -47,6 +47,26 @@ export const getUser = async (req, res, next) => {
     }
 }
 
+export const profile = async (req, res, next) => {
+    const requestData = req.userData;
+    const db = DbService.getDbServiceInstance();
+    const query = `SELECT users.username, users.first_name, users.last_name, users.id, 
+        users.customer_type, users.email, address.id as address_id, address.type, address.phone, 
+        address.address, address.city, address.state_province, address.postal_code, address.country, address.company
+        FROM users 
+        RIGHT OUTER JOIN user_address as address ON address.user_id = users.id AND customer_type = 1
+        where users.id = ?`;
+    try {
+        const result = await db.getData(query, [requestData.userId]);
+        res.status(201).json({ 'message': `ok`, 'profile': result[0] });
+    } catch (err) {
+        console.error(err);
+        const error = createHttpError(500, `Finding user address failed, please try again later. ${err}`);
+        return next(error);
+    }
+}
+
+
 function getSignupErrors(errors) {
     console.log('Validation Errors:', errors);
     return errors.map(error => {
@@ -257,11 +277,11 @@ export const updateProfile = async (req, res, next) => {
     const user = req.body;
     const existingUser = new User(user);
 
-    let query = 'SELECT users.id as userId, users.*, user_address.*  FROM users join user_address on users.id = user_address.user_id where username = ?';
+    let query = 'SELECT users.id as userId, users.*, user_address.*  FROM users join user_address on users.id = user_address.user_id where users.id = ?';
     let userCurrent;
 
     try {
-        userCurrent = await db.getData(query, [existingUser.username]);
+        userCurrent = await db.getData(query, [existingUser.user_id]);
     } catch (err) {
         console.error(err);
     }
@@ -289,7 +309,7 @@ export const updateProfile = async (req, res, next) => {
         }
     }
 
-    res.status(200).json({ 'success': 'Your profile has been updated' });
+    res.status(200).json({ 'success': true, message: 'Your profile has been updated' });
 };
 
 
@@ -339,7 +359,7 @@ export const changePassword = async (req, res, next) => {
         return next(error);
     }
 
-    res.status(201).json({ 'success': 'Your password has been updated' });
+    res.status(201).json({ success: true, message: 'Your password has been updated' });
 }
 
 export const forgotPassword = async (req, res, next) => {

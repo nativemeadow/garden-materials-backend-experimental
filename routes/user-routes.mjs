@@ -1,6 +1,6 @@
 import express from 'express';
 import { check } from 'express-validator';
-import { getUsers, getUser, signup, login, handleLogout, updateProfile, changePassword, forgotPassword, resetPassword, handleRefreshToken } from '../controllers/users-controller.mjs';
+import { getUsers, getUser, signup, login, profile, handleLogout, updateProfile, changePassword, forgotPassword, resetPassword, handleRefreshToken } from '../controllers/users-controller.mjs';
 import { checkAuth } from '../middleware/check-auth.mjs';
 import { checkPasswordResetAuth } from '../middleware/check-password-reset-auth.mjs';
 
@@ -22,9 +22,7 @@ router.post(
             .isEmail().withMessage('please enter a valid email for you account.'),
         check('password').isLength({ min: 6 }).withMessage('please enter password with minimum of 6 character'),
         check(
-            'passwordConfirmation',
-            'passwordConfirmation field must have the same value as the password field',
-        )
+            'passwordConfirmation')
             .exists()
             .custom((value, { req }) => value === req.body.password)
             .withMessage('passwordConfirmation field must have the same value as the password field'),
@@ -83,6 +81,11 @@ router.use(checkAuth);
 router.get('/getUser', (req, res, next) => {
     console.log('get user:');
     getUser(req, res, next);
+});
+
+router.get('/customer', (req, res, next) => {
+    console.log('get user:');
+    profile(req, res, next);
 });
 
 router.put('/updateProfile', [
