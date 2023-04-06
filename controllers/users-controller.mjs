@@ -121,7 +121,7 @@ export const signup = async (req, res, next) => {
         const error = createHttpError(500, `Signing up failed, please try again later. ${err}`);
         return next(error);
     }
-    res.status(201).json({ 'success': `New user created!` });
+    res.status(201).json({ success: true, message: `Your account has be created!` });
 };
 
 export async function handleRefreshToken(req, res, next) {
@@ -261,7 +261,7 @@ export const handleLogout = async (req, res, next) => {
     }
 
     res.clearCookie('jwt', { httpOnly: true, sameSite: 'None', secure: true });
-    res.status(201).json({ 'success': `User logged out` });
+    res.status(201).json({ success: true `Your have logged out` });
 }
 
 export const updateProfile = async (req, res, next) => {
@@ -309,7 +309,7 @@ export const updateProfile = async (req, res, next) => {
         }
     }
 
-    res.status(200).json({ 'success': true, message: 'Your profile has been updated' });
+    res.status(200).json({ success: true, message: 'Your profile has been updated' });
 };
 
 
@@ -390,7 +390,7 @@ export const forgotPassword = async (req, res, next) => {
         return next(error);
     }
 
-    const resetUrl = `${process.env.FRONTEND_URL}user/reset-password/${resetToken}`;
+    const resetUrl = `${process.env.FRONTEND_URL}/user/reset-password/${resetToken}`;
     const resetLinkName = 'Reset Password Here';
     let htmlEmail = '';
     await ejs.renderFile('./views/reset-password-email.ejs', { resetUrl, resetLinkName }, (err, html) => {
@@ -422,7 +422,7 @@ export const forgotPassword = async (req, res, next) => {
             const error = createHttpError(500, `Could not send reset password link: ${err}`);
             return next(error);
         }
-        res.status(201).json({ 'success': 'Reset password link has been sent to your email' });
+        res.status(201).json({ success: true, message: 'Reset password link has been sent to your email' });
     });
 }
 
